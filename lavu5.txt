@@ -1,0 +1,55 @@
+
+<html>
+<head>
+<body>
+<h1 style="text-align:center;font-size:250%;">Feedback</h1>
+
+</head>
+
+<body background="111.jpg">
+<body text ="white">
+
+<body topmargin ="20">
+<body leftmargin="50">
+<body rightmargin="50">
+<form align="center">
+ 
+
+Name:
+<input type="text" name="name" id="name"><br><br>
+
+ 
+E-mail id: <input type="text" name="name" id="name"><br><br>
+
+<input type="radio" name="radiogroup1" value="radio" id="radiogroup1"> Teacher
+<input type="radio" name="radiogroup1" value="radio" id="radiogroup2"> Student<br><br>
+
+Gender: <input type="radio" name="radiogroup1" value="radio" id="radiogroup1"> Male
+<input type="radio" name="radiogroup1" value="radio" id="radiogroup2"> Female<br><br>
+
+Contact: <input type="text" name="mobile" id="mobile"><br><br>
+ 
+ Class :  
+ </label>   
+ <select>  
+ <option value="Class">Class</option>  
+ <option value="6">6</option>  
+ <option value="7">7</option>  
+ <option value="8">8</option>  
+ <option value="9">9</option>  
+ <option value="10">10</option>  
+ <option value="11">11</option>  
+ <option value="12">12</option> 
+<option value="Teacher">teacher</option> 
+ </select>  <br><br>
+
+Feedback   
+ <br>  
+ <textarea cols="80" rows="5" value="Feedback">  
+ </textarea>  
+ <br> <br>  
+<input type="button" value="Submit"/>  
+
+</form>
+</body>
+</html>

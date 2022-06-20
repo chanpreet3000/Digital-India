@@ -1,0 +1,37 @@
+
+<html>
+<head>
+<html>
+<head>
+</head>
+<body background="111.jpg">
+<body text ="white">
+
+<body topmargin ="20">
+<body leftmargin="50">
+<body rightmargin="50">
+
+<img src="16.jpg"width="350"height="200">
+<img src="17.jpg"width="350"height="200">
+<img src="18.jpg"width="350"height="200">
+<img src="19.jpg"width="350"height="200">
+<img src="20.jpg"width="350"height="200">
+
+<h2 style="font-size:250%;">Potential to Unlock Opportunities </h2>
+<p style="font-size:160%;">Open digital ecosystems today have the potential to unlock opportunities worth $700 billion 
+for India by 2030, as per a report by BCG. The environmental, societal and governance (ECG) impact across sectors like 
+healthcare, talent, urban governance, agriculture, law and justice, education and micro, small and medium enterprises (MSMEs) 
+can create new value of $500 billion-plus, and over $200 billion in savings for the country.From enabling farmers to sell their 
+produce through e-commerce platforms, to facilitating education and healthcare in the remotest parts of our nation, digitalization 
+offers enormous transformative opportunities for India.</p>
+
+<h3 style="font-size:250%;">Digital Advantage</h3>
+<p style="font-size:160%;">The country must build on its digital advantage and pivot towards a more data-driven 
+structure of governance. These platforms have laid a strong foundation for India to attain digital maturity.
+ For many years, the country was known as the world’s “back office". That is rapidly changing, with the Indian 
+tech industry pivoting to become the world’s digital solutions partner. In my view, the triage of digital tech solutions, 
+digital talent and digital platforms at scale constitute Digital India.The next few years will be decisive for India’s potential 
+to stimulate employment and get back to being one of the world’s fasting-growing large economies. As we say at Nasscom, when the world thinks 
+‘digital’, the world must think India.</p>
+
+<a href="file:///F:/lavu/html/lavu5.html">next page</a>
